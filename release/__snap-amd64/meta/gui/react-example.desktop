@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=StockPro
+Exec=react-example %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=StockPro
+Categories=Utility;

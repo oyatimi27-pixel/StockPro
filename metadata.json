@@ -1,0 +1,6 @@
+{
+  "name": "StockPro ERP",
+  "description": "Stock and Invoice Management System for Tunisian Businesses with PDF invoicing, client/supplier tracking, and inventory control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
